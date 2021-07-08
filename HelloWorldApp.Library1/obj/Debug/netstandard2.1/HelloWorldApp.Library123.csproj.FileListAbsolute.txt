@@ -1,0 +1,9 @@
+D:\AzureDevOps\HelloWorldApp\HelloWorldApp.Library1\bin\Debug\netstandard2.1\HelloWorldApp.Library123.deps.json
+D:\AzureDevOps\HelloWorldApp\HelloWorldApp.Library1\bin\Debug\netstandard2.1\HelloWorldApp.Library123.dll
+D:\AzureDevOps\HelloWorldApp\HelloWorldApp.Library1\bin\Debug\netstandard2.1\HelloWorldApp.Library123.pdb
+D:\AzureDevOps\HelloWorldApp\HelloWorldApp.Library1\obj\Debug\netstandard2.1\HelloWorldApp.Library123.AssemblyInfoInputs.cache
+D:\AzureDevOps\HelloWorldApp\HelloWorldApp.Library1\obj\Debug\netstandard2.1\HelloWorldApp.Library123.AssemblyInfo.cs
+D:\AzureDevOps\HelloWorldApp\HelloWorldApp.Library1\obj\Debug\netstandard2.1\HelloWorldApp.Library123.csproj.CoreCompileInputs.cache
+D:\AzureDevOps\HelloWorldApp\HelloWorldApp.Library1\obj\Debug\netstandard2.1\HelloWorldApp.Library123.dll
+D:\AzureDevOps\HelloWorldApp\HelloWorldApp.Library1\obj\Debug\netstandard2.1\HelloWorldApp.Library123.pdb
+D:\AzureDevOps\HelloWorldApp\HelloWorldApp.Library1\obj\Debug\netstandard2.1\HelloWorldApp.Library123.csprojAssemblyReference.cache
