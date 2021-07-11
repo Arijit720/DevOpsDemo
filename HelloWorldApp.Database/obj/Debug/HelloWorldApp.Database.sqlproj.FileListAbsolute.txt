@@ -1,6 +1,0 @@
-D:\AzureDevOps\HelloWorldApp\HelloWorldApp.Database\bin\Debug\HelloWorldApp.Database.dacpac
-D:\AzureDevOps\HelloWorldApp\HelloWorldApp.Database\bin\Debug\HelloWorldApp.Database.dll
-D:\AzureDevOps\HelloWorldApp\HelloWorldApp.Database\bin\Debug\HelloWorldApp.Database.pdb
-D:\AzureDevOps\HelloWorldApp\HelloWorldApp.Database\obj\Debug\HelloWorldApp.Database.sqlprojAssemblyReference.cache
-D:\AzureDevOps\HelloWorldApp\HelloWorldApp.Database\obj\Debug\HelloWorldApp.Database.dll
-D:\AzureDevOps\HelloWorldApp\HelloWorldApp.Database\obj\Debug\HelloWorldApp.Database.pdb
